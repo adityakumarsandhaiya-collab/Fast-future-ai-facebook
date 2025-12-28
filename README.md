@@ -28,27 +28,36 @@ It is created to understand:
 - responsive layout design  
 - basic form interaction logic  
 
-> ⚠️ **Disclaimer**  
-> This project is **NOT affiliated with Facebook or Meta**.  
-> It does **not collect, store, or transmit any user data**.  
-> Created **strictly for educational and UI demonstration purposes only**.
+## ⚠️ Disclaimer
+
+This project is created **strictly for educational and demonstration purposes**.
+
+It does **not** represent any real Google service and must **not** be used for:
+- phishing
+- impersonation
+- data collection
+- misleading activities
+
+Any misuse of this project is **not the responsibility of the author**.
 
 ---
-
-## ✨ Key Features
-
-- 🎨 Clean & realistic Facebook-style UI  
-- 📱 Fully responsive (Mobile / Tablet / Desktop)  
-- ⚡ Smooth animations & transitions  
-- 🔄 Button loading state  
-- ❌ Error & success message handling  
-- 🧠 Simple client-side validation  
-
+---
 ---
 
-## 🛠️ Technologies Used
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&pause=800&color=E1306C&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Pravin;Frontend+UI+Learner;Educational+Projects+Only" />
+</p>
 
-```text
-HTML5        – Structure
-CSS3         – Styling & animations
-JavaScript   – UI logic & form handling
+<p align="center">
+  <a href="https://instagram.com/mishra_143p" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/HackPulse_Zero" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Join-%230088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4285F4,100:34A853&height=2&section=footer" />
+</p>
